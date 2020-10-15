@@ -4,7 +4,7 @@ This is a simple example of how to integrate netlify CMS with a roots based site
 
 It's based on Brian Rinaldi's great [Static Site Samples](https://github.com/remotesynth/Static-Site-Samples) and meant as a simple example of how to hook netlify CMS up with a roots based site.
 
-## Setting up
+## Setting up.....its very easy !!!
 
 Make sure to install the [netlify-git-api](https://github.com/netlify/netlify-git-api) before you start.
 
